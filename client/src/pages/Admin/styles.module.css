@@ -1,0 +1,9 @@
+.admin{
+    display: flex;
+    padding: 0;
+    margin:0;
+
+}
+.admin li{
+    padding: 0 10px;
+}
